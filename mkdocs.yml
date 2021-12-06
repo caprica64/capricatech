@@ -67,7 +67,7 @@ extra:
 # Page tree
 nav:
   - "Home": "index.md"
-  - "About Caprica Tech": "capricatech.md"
+  - "About Caprica Tech": "about.md"
   - "TSR - Terminate and Stay Resident": "tsr.md"
   - "AWS":
       - "Download boilerplate": "getting-started/download-boilerplate.md"
