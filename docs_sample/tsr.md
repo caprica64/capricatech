@@ -1,4 +1,4 @@
-# Terminate and stay resident
+# Terminate and Stay Resident
 
 
 ## Old computer stuff worthing mentioning
