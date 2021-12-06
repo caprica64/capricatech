@@ -13,7 +13,7 @@ repo_url: "https://github.com/caprica64/capricatech/"
 edit_uri: "https://github.com/caprica64/capricatech/edit/main/docs_sample"
 
 # Configuration
-docs_dir: "docs_sample"
+docs_dir: "site"
 theme:
   name: "material"
   language: "en"
@@ -67,21 +67,22 @@ extra:
 # Page tree
 nav:
   - "Home": "index.md"
-  - "About TSR": "tsr.md"
-  - "Getting started":
+  - "About Caprica Tech": "capricatech.md"
+  - "TSR - Terminate and Stay Resident": "tsr.md"
+  - "AWS":
       - "Download boilerplate": "getting-started/download-boilerplate.md"
       - "pipenv": "getting-started/pipenv.md"
       - "invoke": "getting-started/invoke.md"
       - "Docker": "getting-started/docker.md"
       - "pip": "getting-started/pip.md"
       - "teste": "Readme.md"
-  - "Hosting and Deployment":
+  - "Terraform":
       - "Combinations": "hosting-and-deployment/combinations.md"
       - "Netlify": "hosting-and-deployment/netlify.md"
       - "GitHub Pages": "hosting-and-deployment/github-pages.md"
       - "GitLab Pages": "hosting-and-deployment/gitlab-pages.md"
       - "AWS Amplify Console": "hosting-and-deployment/aws-amplify-console.md"
-  - "Extensions":
+  - "FreeBSD":
       - "MathJax": "extensions/mathjax.md"
       - "Code Hilite": "extensions/code-hilite.md"
       - "Footnote": "extensions/footnote.md"
