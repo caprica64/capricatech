@@ -1,8 +1,7 @@
-# Material for MkDocs
+# Terminate and stay resident
 
 
-
-## MkDocs
+## Old computer stuff worthing mentioning
 
 - [mkdocs/mkdocs: Project documentation with Markdown - GitHub]
 
