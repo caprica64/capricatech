@@ -74,6 +74,7 @@ nav:
       - "invoke": "getting-started/invoke.md"
       - "Docker": "getting-started/docker.md"
       - "pip": "getting-started/pip.md"
+      - "teste": "Readme.md"
   - "Hosting and Deployment":
       - "Combinations": "hosting-and-deployment/combinations.md"
       - "Netlify": "hosting-and-deployment/netlify.md"
