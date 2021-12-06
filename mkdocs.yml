@@ -83,7 +83,7 @@ nav:
       - "GitLab Pages": "hosting-and-deployment/gitlab-pages.md"
       - "AWS Amplify Console": "hosting-and-deployment/aws-amplify-console.md"
   - "FreeBSD":
-      - "MathJax": "extensions/mathjax.md"
+      - "MZFS no FreeBSD": "FreeBSD/ZFS_no_FreeBSD.md"
       - "Code Hilite": "extensions/code-hilite.md"
       - "Footnote": "extensions/footnote.md"
   - "License": "license.md"
