@@ -13,7 +13,7 @@ repo_url: "https://github.com/caprica64/capricatech/"
 edit_uri: "https://github.com/caprica64/capricatech/edit/main/docs_sample"
 
 # Configuration
-docs_dir: "main_site"
+docs_dir: "site_project"
 theme:
   name: "material"
   language: "en"
@@ -70,20 +70,13 @@ nav:
   - "About Caprica Tech": "about.md"
   - "TSR - Terminate and Stay Resident": "tsr.md"
   - "AWS":
-      - "Download boilerplate": "getting-started/download-boilerplate.md"
-      - "pipenv": "getting-started/pipenv.md"
-      - "invoke": "getting-started/invoke.md"
-      - "Docker": "getting-started/docker.md"
-      - "pip": "getting-started/pip.md"
-      - "teste": "Readme.md"
+      - "Project 1": "aws/project1.md"
+      - "Project 2": "aws/project2.md"
+      - "Project 3": "aws/project3.md"
   - "Terraform":
-      - "Combinations": "hosting-and-deployment/combinations.md"
-      - "Netlify": "hosting-and-deployment/netlify.md"
-      - "GitHub Pages": "hosting-and-deployment/github-pages.md"
-      - "GitLab Pages": "hosting-and-deployment/gitlab-pages.md"
-      - "AWS Amplify Console": "hosting-and-deployment/aws-amplify-console.md"
+      - "Project 1": "terraform/project1.md"
+      - "Project 2": "terraform/project2.md"
+      - "Project 3": "terraform/project3.md"
   - "FreeBSD":
       - "MZFS no FreeBSD": "FreeBSD/ZFS_no_FreeBSD.md"
-      - "Code Hilite": "extensions/code-hilite.md"
-      - "Footnote": "extensions/footnote.md"
   - "License": "license.md"
