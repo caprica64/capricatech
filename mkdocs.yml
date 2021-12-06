@@ -13,7 +13,7 @@ repo_url: "https://github.com/caprica64/capricatech/"
 edit_uri: "https://github.com/caprica64/capricatech/edit/main/docs_sample"
 
 # Configuration
-docs_dir: "site"
+docs_dir: "main_site"
 theme:
   name: "material"
   language: "en"
