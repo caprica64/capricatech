@@ -4,7 +4,7 @@ Terminate and Stay Resident is a related site of old technology, vintage computi
 
 ## Old computer stuff worthing mentioning
 
-- [Networking/LANtasticmkdocs: SME networking product]
+- [Networking/LANtastic: SME networking product]
 
 
 
@@ -16,5 +16,5 @@ Terminate and Stay Resident is a related site of old technology, vintage computi
 
 <!-- Internal References -->
 <!-- External References -->
-[Networking/LANtasticmkdocs: SME networking product]: https://en.wikipedia.org/wiki/LANtastic
+[Networking/LANtastic: SME networking product]: https://en.wikipedia.org/wiki/LANtastic
 [squidfunk/mkdocs-material: A Material Design theme for MkDocs]: https://github.com/squidfunk/mkdocs-material
