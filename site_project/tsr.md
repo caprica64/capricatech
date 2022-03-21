@@ -16,5 +16,5 @@ Terminate and Stay Resident is a related site of old technology, vintage computi
 
 <!-- Internal References -->
 <!-- External References -->
-[mkdocs/mkdocs: Project documentation with Markdown - GitHub]: https://github.com/mkdocs/mkdocs/
+[Networking/LANtasticmkdocs: SME networking product]: https://en.wikipedia.org/wiki/LANtastic
 [squidfunk/mkdocs-material: A Material Design theme for MkDocs]: https://github.com/squidfunk/mkdocs-material
