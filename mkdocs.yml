@@ -79,5 +79,5 @@ nav:
       - "Project 2": "terraform/project2.md"
       - "Project 3": "terraform/project3.md"
   - "FreeBSD":
-      - "MZFS no FreeBSD": "FreeBSD/ZFS_no_FreeBSD.md"
+      - "ZFS no FreeBSD": "FreeBSD/ZFS_no_FreeBSD.md"
   - "License": "license.md"
