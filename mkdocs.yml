@@ -70,7 +70,7 @@ nav:
   - "About Caprica Tech": "about.md"
   - "TSR - Terminate and Stay Resident": "tsr.md"
   - "AWS":
-      - "EKS with Terraform": "aws/ekswithterraform.md"
+      - "EKS with CloudFormation": "aws/ekswithcloudformation.md"
       - "Project 1": "aws/project1.md"
       - "Project 2": "aws/project2.md"
       - "Project 3": "aws/project3.md"
