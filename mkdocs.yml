@@ -1,11 +1,11 @@
 # Project information
-site_name: "MkDocs Material Boilerplate"
-site_description: "MkDocs Material Boilerplate (Starter Kit) - Deploy documentation to hosting platforms (Netlify, GitHub Pages, GitLab Pages, and AWS Amplify Console) with Docker, pipenv, and GitHub Actions."
-site_author: "peaceiris"
-site_url: "https://mkdocs.peaceiris.com/"
+site_name: "Caprica Tech"
+site_description: "Person journal based in MkDocs over AWS Amplify."
+site_author: "Caprica"
+site_url: "https://caprica.tech/"
 
 # Copyright
-copyright: "&copy; 2021 peaceiris"
+copyright: "&copy; 2022 Caprica"
 
 # Repository
 repo_name: "GitHub"
