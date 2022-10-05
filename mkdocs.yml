@@ -71,6 +71,7 @@ nav:
   - "TSR - Terminate and Stay Resident": "tsr.md"
   - "AWS":
       - "EKS with CloudFormation": "aws/ekswithcloudformation.md"
+      - "EKS with CloudFormation": "aws/EKSwithCloudFormation.text.bundle/ekswithcloudformation.md"
       - "Project 1": "aws/project1.md"
       - "Project 2": "aws/project2.md"
       - "Project 3": "aws/project3.md"
